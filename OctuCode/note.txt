@@ -1,0 +1,6 @@
+1-editor
+2-compiler
+3-interpreter
+4-data type
+8-variables
+9-if condition

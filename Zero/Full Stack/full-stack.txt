@@ -1,0 +1,42 @@
+الهيكل الخاص بصفحه html
+
+<html>
+  <head>
+    <title>Book Store</title>
+  </head>
+  <body>
+    This Is My Book Store, Welcome
+  </body>
+</html>
+*************************************
+الدرس الرابع
+العناصر الخاصه في head
+ <head>
+    <meta charset="UTF-8" />
+    <title>Book Store</title>
+    <meta name="description" content="This Is Our Book Store" />
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="">
+ </head>
+************************************************** 
+الدرس الخامس 
+comments
+<!-- This Meta Is For Bla Bla Bla -->
+***********************************************
+الدرس السادس
+العنصر الاساسي في الصفحه
+Doctype
+<!doctype html>
+**********************************************
+الدرس السابع
+العنصر الخاص
+Headings And Use Cases
+<h1>Book Store</h1>
+<h2>Chapter Title Inside Book</h2>
+<h3>Story Title Inside Chapter</h3>
+**********************************************
+الدرس الثامن
+العنصر الخاص في المسافات في صفحه
+syntax and tests about space
+**********************************************

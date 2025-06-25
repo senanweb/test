@@ -1,0 +1,36 @@
+=======create tables======
+use shop;
+CREATE TABLE Employee(
+id int PRIMARY KEY ,
+name varchar(225) ,
+salary int 
+);
+======view table=======
+use shop;
+SELECT id,name,salary  --or (used *)
+FROM employee;
+======view information tables=======
+use shop;
+SHOW COLUMNS FROM employee;
+=========add columns============
+use shop;
+ALTER TABLE employee
+ADD email varchar(225);
+==========modify==========
+use shop;
+ALTER TABLE employee
+MODIFY COLUMN id char(225);
+==========delete column=====
+USE shop;
+ALTER TABLE employee
+DROP COLUMN email;
+===========show tables=======
+use shop;
+SHOW TABLES;
+=======rename tables=======
+use shop;
+ALTER TABLE employee
+RENAME to mydata;
+=============delete tables=====
+USE shop;
+DROP TABLE mydata;

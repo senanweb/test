@@ -1,0 +1,10 @@
+import datetime     #Library
+today = datetime.datetime.today()
+print(today)
+print("=" * 50)
+print(today.year)
+print("=" * 50)
+print(today.month)
+print("=" * 50)
+print(today.day)
+print("=" * 50)     

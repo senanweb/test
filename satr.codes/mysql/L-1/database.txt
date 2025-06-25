@@ -1,0 +1,4 @@
+/* CREATE DATABASE sinan; */
+/* SHOW DATABASES; */
+/* SHOW SCHEMAS */
+/* DROP DATABASE sinan; */

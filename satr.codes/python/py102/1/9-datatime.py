@@ -1,0 +1,10 @@
+import datetime     #Library
+date = datetime.date (2022, 2, 13)
+print(date)
+print("=" * 50)
+print(date.year)
+print("=" * 50)
+print(date.month)
+print("=" * 50)
+print(date.day)
+print("=" * 50)

@@ -1,0 +1,12 @@
+/* 10 create style */
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.li {
+    color: rgb(231, 4, 16);
+    
+}

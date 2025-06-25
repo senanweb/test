@@ -1,0 +1,8 @@
+.container {
+    margin: 0 auto;
+    padding: 0 10px;
+}
+body{
+    /* if you wont add font  */
+    background-color: rgb(105, 204, 235);
+}

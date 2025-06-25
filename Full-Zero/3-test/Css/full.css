@@ -1,0 +1,87 @@
+/*Global Rules*/
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+font-family: "work sans", sans-serif;
+
+}
+/* Variables */
+.parent {
+    background-color: #eee;
+    
+}
+.container{
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* Variables */
+
+/* small */
+@media(min-width:768px){
+    .container{
+        width:750px;
+   }
+}
+/* small */
+/* Medium */
+@media(min-width:992px){
+   .container{
+        width:970px;
+   }
+    }
+/* Medium */
+/* Large */
+@media(min-width:1200px){
+    .container{
+        width:1170px;
+   }
+    }
+/* Large */
+/*Global Rules*/
+/* Header */
+.header{
+    padding: 10px;
+}
+.header .container{
+    /* make space between logo and links use this*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* make space between logo and links use this*/
+}
+.header .logo{
+    width: 50px;
+}
+.header .links{
+    position: relative;
+}
+.header .links .icon {
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.header.links .icon span{
+    background-color:#333;
+    margin-bottom: 5px;
+    height: 2px;
+}
+.header .links .icon span:first-child{
+        height: 3px;
+        width: 100%;
+}
+.header .links .icon span:nth-child(2){
+        height: 3px;
+        width: 60%;
+}
+.header .links .icons span:last-child{
+        height: 5px;
+        width: 100%;
+}
+/* Header */

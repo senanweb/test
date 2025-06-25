@@ -1,0 +1,49 @@
+01- Html = HyperText Mark Language
+02- What i need to start (vs code)
+        * start *
+        <!DOCTYPE html>
+            <hade>
+                <title>start</title>
+            </hade>
+            <body>
+                <h1>بسم الله</h1>
+                <p> page for paragraph</p>
+            </body>
+        </!DOCTYPE>
+03- Attributes 
+        <a href="" target="">Google</a>
+        <img src="">
+        <input type="">
+        <input password="">
+04- Heading
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+05- paragraph
+        <p></p> 
+        <br>
+        <p></p>    
+06- Image
+        <img>
+        <img src="../1-Htmal/img/Desert.jpg"  alt="xxx">
+07- Anchor Links
+        <a href="xxxxx" target="_blank">Links</a>
+        <a href="#one">Go to</a>
+        <P></P>
+        <P></P>
+        <P></P>
+        <P></P>
+        <P></P>
+        <P></P>
+        <P></P>
+        <P id="one"></P>
+8-  Head
+        <!DOCTYPE html>
+            <head>
+                <meta>
+                <title></title>
+                <style></style>
+            </head>
+        </html>
+
+

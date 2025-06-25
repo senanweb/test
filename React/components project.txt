@@ -1,0 +1,6 @@
+1- Folder Node_Modules (all modules react)
+2- Folder PUBLIC (favicon-index.html-manifest.json-robots)
+3- Folder src (index.js-style.css)
+4- file (.gitignore)
+5- file (package.json)
+6- file (package-lock.json)

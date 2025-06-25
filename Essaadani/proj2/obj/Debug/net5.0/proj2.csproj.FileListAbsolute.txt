@@ -1,0 +1,16 @@
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\bin\Debug\net5.0\proj2.exe
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\bin\Debug\net5.0\proj2.deps.json
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\bin\Debug\net5.0\proj2.runtimeconfig.json
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\bin\Debug\net5.0\proj2.runtimeconfig.dev.json
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\bin\Debug\net5.0\proj2.dll
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\bin\Debug\net5.0\ref\proj2.dll
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\bin\Debug\net5.0\proj2.pdb
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.csproj.AssemblyReference.cache
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.dll
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\ref\proj2.dll
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.pdb
+C:\xampp\htdocs\xampp\learn\Essaadani\proj2\obj\Debug\net5.0\proj2.genruntimeconfig.cache

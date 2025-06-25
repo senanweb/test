@@ -1,0 +1,18 @@
+must put the path for database in app.config
+يجب وضع مكان الامتداد للقاعده في app.config
+********************************8
+connectionstring
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\xampp\htdocs\xampp\try\my-VB\Connection\vbstd.mdb;Persist Security Info=True;Jet OLEDB:Database Password=Omar2011"
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\xampp\htdocs\xampp\try\my-VB\datavb.mdb;Persist Security Info=True;Jet OLEDB:Database Password=Omar2011
+****************************
+Dim con As New OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\xampp\htdocs\xampp\try\my-VB\Connection\Connection\vbstd.mdb;User Id=admin; Password=Omar2011")
+        Dim da As New OleDbDataAdapter("select * from user", con)
+        Dim dt As New DataTable()
+        da.Fill(dt)
+        DataGridView1.DataSource = dt
+*********************************
+        'Dim con As New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\xampp\htdocs\xampp\try\my-VB\WindowsApplication1\datavb.accdb; Jet OLEDB:Database Password=Omar2011")
+        'Dim da As New OleDbDataAdapter("select * from stduser", con)
+        'Dim dt As New DataTable()
+        'da.Fill(dt)
+        'DataGridView1.DataSource = dt

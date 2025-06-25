@@ -1,0 +1,17 @@
+Download Mays
+pacman -Syu
+pacman -Su
+
+pacman -Ss gcc
+pacman -S mingw-w64-x86_64-gcc
+
+pacman -Ss gdb
+pacman -S mingw-w64-86_64-gdb
+
+Check Versions
+gcc --Version
+g++ --Version
+gdb --version
+
+ace
+
